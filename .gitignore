@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Directories and large files
+scratch_before_server_damage/
+pretrained/
+data/
+scratch/
+outputs/
+
 # C extensions
 *.so
 
